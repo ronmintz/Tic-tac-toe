@@ -1,8 +1,12 @@
 # Tic-tac-toe
 Tic-tac-toe game.  To run, do in this directory:
+
 npm install -g http-server
+
 http-server -c-1
+
 localhost:8080
+
 Click on standalone.html
 
 This puts up the tic-tac-toe board.  Alternately, click on square where you want to enter X.  Then click on square where you want to enter O.  Repeatedly, enter X's and O's alternately until "Winner is X or O" appears or all squares are filled.
